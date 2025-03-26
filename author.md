@@ -1,16 +1,11 @@
+#### 대시보드
+![author-dashboard(2).gif](output/author-dashboard%282%29.gif)
 
-## 작가 회원가입
-<video src="output/author-join.mp4" autoplay loop muted playsinline></video>
+#### 프로필 정보
+![author-info.gif](output/author-info.gif)
 
-## 작가 정보
-<video src="output/author-info.mp4" autoplay loop muted playsinline></video>
+#### 회원가입
+![author-join.gif](output/author-join.gif)
 
-## 작가 대시보드
-<video src="output/author-dashboard(1).mp4" autoplay loop muted playsinline></video>
-
-## 작가 대시보드
-<video src="output/author-dashboard(2).mp4" autoplay loop muted playsinline></video>
-
-## 작가 판매 내역
-<video src="output/author-transaction.mp4" autoplay loop muted playsinline></video>
-
+#### 거래 내역
+![author-transaction.gif](output/author-transaction.gif)

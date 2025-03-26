@@ -1,3 +1,11 @@
 # 독자 회원가입
+![reader-join.gif](output/reader-join.gif)
 
-<video src="output/reader-join.mp4" autoplay loop muted playsinline></video>
+## 카카오 페이 결제
+![kakaopay.jpg](output/kakaopay.jpg)
+
+## 네이버 페이 결제
+![naverpay.png](output/naverpay.png)
+
+## 나이스 페이 결제
+![nicepay.png](output/nicepay.png)
